@@ -1,0 +1,14 @@
+/*
+* @Author: TomChen
+* @Date:   2019-04-09 20:06:03
+* @Last Modified by:   TomChen
+* @Last Modified time: 2019-04-14 10:48:19
+*/
+*{
+	margin: 0;
+	padding: 0;
+}
+.ant-table-content{
+	min-height: 680px;
+	margin-top: 20px;
+}
